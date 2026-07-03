@@ -4,6 +4,8 @@ Calcule la consommation de D-T Fuel et la production d'énergie du réacteur de 
 
 > **Vibe coded** avec Claude Code — les formules viennent du [wiki FTB](https://ftb.fandom.com/wiki/Fusion_Reactor_(Mekanism)), l'interface a été générée par IA.
 
+**Liens utiles :** [Wiki FTB](https://ftb.fandom.com/wiki/Fusion_Reactor_(Mekanism)) · [Mekanism sur CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism) · [GitHub](https://github.com/Lauwed/mekanism-fission-reactor-calculator)
+
 ## Fonctionnalités
 
 - Slider d'**injection rate** (2–98, pairs uniquement) pour le mixage interne D + T
